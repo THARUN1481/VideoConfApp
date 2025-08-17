@@ -1,13 +1,6 @@
 # Video Conferencing Website
 
-This website is built using Javascript. This website enables us to do video calling and chatting. It is built using NodeJs, ExpressJs, PeerJs and Socket.io.
-
-## Screenshots
-<img src="screenshots/1.png" />
-<img src="screenshots/2.png" />
-<img src="screenshots/3.png" />
-<img src="screenshots/4.png" />
-
+This website is built using Javascript. This website enables us to do video calling and chatting. It is built using NodeJs.
 
 ## Live Application URL
 #### https://tranquil-river-58769.herokuapp.com/
@@ -16,15 +9,6 @@ This URL has the application deployed in **Heroku**
 ## Prerequisites
 Install Node JS
 Refer to https://nodejs.org/en/ to install Nodejs
-
-## Packages Used
-```
-1. ejs
-2. express
-3. peer
-4. socket.io
-5. uuid
-```
 
 ## Cloning and Running the Application in local
 **Clone the project into local**
@@ -48,13 +32,8 @@ Pull Requests are welcome. Please follow these rules for the ease of understandi
 
 ## Developed & Maintained by
 
-[👨 Sayan Nath](https://sayan-nath.web.app/)
+[👨 Tharun Kumar]
 
-[📷 Insta](https://www.instagram.com/sayannath235/)
-
-[🐤 Twitter](https://twitter.com/SayanNa20204009)
-
-[🧳 LinkedIn](https://www.linkedin.com/in/sayan-nath-15a989182/)
+[🧳 LinkedIn](www.linkedin.com/in/tharun-kumar-reddi-4704a6253)
 
 
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/sayannath)
