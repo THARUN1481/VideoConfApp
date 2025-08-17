@@ -2,10 +2,6 @@
 
 This website is built using Javascript. This website enables us to do video calling and chatting. It is built using NodeJs.
 
-## Live Application URL
-#### https://tranquil-river-58769.herokuapp.com/
-This URL has the application deployed in **Heroku**
-
 ## Prerequisites
 Install Node JS
 Refer to https://nodejs.org/en/ to install Nodejs
